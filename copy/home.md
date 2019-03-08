@@ -4,14 +4,12 @@ Or are you having equipment that you do not use anymore at your academy ?
 
 This site might be of interest to you
 
-Our goal is to build bridges between Cisco Networking Academies.
+Our goal is to build bridges between academies.
 
 First, there is donation
 
 We have been visiting academies for some time and there is a gap between academies having enough equipment and academies in need.  
 Some academies often have some spare equipment that they do not use anymore.  Some academies do not have enough equipment.
-
-We intend to build a bridge between academies using this web platform.
 
 Then, there is twinning
 
